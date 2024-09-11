@@ -1,0 +1,4 @@
+bank application
+schema
+id, owners_name, location, account_number
+orm
